@@ -1,0 +1,24 @@
+Points Understood after stakeholder meetings
+Hospitality
+
+
+Fluctuating ADR not there -- RevPar is fluctuating bcuz of Occupancy fluctuation
+People do multiple bookings and keep the lowest rated as Last Option so Cancellation Rates Also increased
+Pricing types - Flat, Dynamic, WeekDay/Ends 
+Differential Pricing - Low PRice at own Channel cuz of no commision 
+[But u cant do this as MakeMyTrip uses bot to scrape valeus and willl not list your hotel
+SO use promotion at the checkout place]
+
+
+Pareto Principle - 
+80% problem by 20% of the hotel
+OR 20% bring the highest Reveneu thaan the 80% hotels
+
+RevPAR: Offers a more comprehensive picture of your hotel's financial health, as it considers both room pricing and occupancy.
+It takes into account both your occupancy rate (percentage of rooms filled) and your average daily rate (ADR).
+Formula: RevPAR = Total room revenue / Total available rooms
+
+ADR: Helps understand your pricing strategy and its effectiveness in capturing market value.
+average price you charge per occupied room.
+It doesn't consider empty rooms, only those that were booked and generated revenue.
+Formula: ADR = Total room revenue / Rooms sold
